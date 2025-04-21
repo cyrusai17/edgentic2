@@ -9,28 +9,28 @@ export default function CourseCatalog() {
       category: "Leadership & Human Skills",
       courses: [
         {
-          title: "Irreplaceable: How to Be Fully Human in the Age of AI",
-          description: "Master the uniquely human skills that AI cannot replicate.",
+          title: "The Irreplaceable Executive",
+          description: "Master the art of leadership in the AI age. Learn to leverage technology while developing uniquely human skills that AI cannot replicate.",
           duration: "8 weeks",
-          format: "Online with live sessions",
-          link: "/programs/irreplaceable",
-          featured: true
+          format: "Fully Online, Asynchronous",
+          featured: true,
+          link: "/programs/irreplaceable"
         },
         {
-          title: "Women in Leadership: Beyond Equity Toward Influence",
-          description: "Develop the skills and strategies to lead with impact.",
-          duration: "6 weeks",
-          format: "Online with live sessions",
-          link: "#",
-          featured: false
+          title: "Strategic Leadership",
+          description: "Develop the strategic mindset and decision-making skills needed to lead organizations through complex challenges.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/strategic-leadership"
         },
         {
-          title: "The Ethical Leader in an Algorithmic World",
-          description: "Navigate the complex intersection of technology and ethics.",
-          duration: "6 weeks",
-          format: "Online with live sessions",
-          link: "#",
-          featured: false
+          title: "Change Management",
+          description: "Learn to lead organizational change effectively, managing both the technical and human aspects of transformation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/change-management"
         }
       ]
     },
@@ -38,28 +38,28 @@ export default function CourseCatalog() {
       category: "Business Strategy & Innovation",
       courses: [
         {
-          title: "Tariff-Ready: Strategic Pivoting in a Protectionist Economy",
-          description: "Navigate global trade challenges with confidence and strategy.",
-          duration: "6 weeks",
-          format: "Online with live sessions",
-          link: "#",
-          featured: true
-        },
-        {
-          title: "Digital Transformation: From Strategy to Execution",
-          description: "Lead your organization through successful digital transformation.",
+          title: "Digital Transformation",
+          description: "Navigate the complexities of digital transformation and lead your organization into the future.",
           duration: "8 weeks",
-          format: "Online with live sessions",
-          link: "#",
-          featured: false
+          format: "Fully Online, Asynchronous",
+          featured: true,
+          link: "/programs/digital-transformation"
         },
         {
-          title: "Innovation Leadership: Creating Future-Ready Organizations",
-          description: "Build and lead innovative teams that drive growth.",
-          duration: "6 weeks",
-          format: "Online with live sessions",
-          link: "#",
-          featured: false
+          title: "Innovation Strategy",
+          description: "Develop systematic approaches to innovation and create sustainable competitive advantages.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/innovation-strategy"
+        },
+        {
+          title: "Business Model Innovation",
+          description: "Learn to design and implement innovative business models that drive growth and value creation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/business-model-innovation"
         }
       ]
     },
@@ -67,20 +67,28 @@ export default function CourseCatalog() {
       category: "Technology & AI",
       courses: [
         {
-          title: "AI Strategy for Business Leaders",
-          description: "Develop and implement effective AI strategies for your organization.",
-          duration: "6 weeks",
-          format: "Online with live sessions",
-          link: "#",
-          featured: false
+          title: "AI Strategy & Implementation",
+          description: "Develop and execute AI strategies that create value while maintaining human-centric leadership.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: true,
+          link: "/programs/ai-strategy"
         },
         {
           title: "Data-Driven Decision Making",
-          description: "Master the art of using data to drive business decisions.",
-          duration: "4 weeks",
-          format: "Online with live sessions",
-          link: "#",
-          featured: false
+          description: "Master the art of using data analytics to inform strategic decisions and drive organizational success.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/data-driven-decision-making"
+        },
+        {
+          title: "Technology Leadership",
+          description: "Lead technology initiatives and teams while balancing innovation with business objectives.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/technology-leadership"
         }
       ]
     }

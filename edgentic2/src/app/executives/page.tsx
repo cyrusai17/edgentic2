@@ -6,19 +6,27 @@ import Link from 'next/link';
 export default function ExecutivesPage() {
   const programs = [
     {
-      title: "Irreplaceable: How to Be Fully Human in the Age of AI",
-      description: "Master the uniquely human skills that AI cannot replicate.",
+      title: "The Irreplaceable Executive",
+      description: "Master the art of leadership in the AI age. Learn to leverage technology while developing uniquely human skills that AI cannot replicate.",
       duration: "8 weeks",
-      format: "Online with live sessions",
+      format: "Fully Online, Asynchronous",
       link: "/programs/irreplaceable",
       featured: true
     },
     {
-      title: "Tariff-Ready: Strategic Pivoting in a Protectionist Economy",
-      description: "Navigate global trade challenges with confidence and strategy.",
-      duration: "6 weeks",
-      format: "Online with live sessions",
-      link: "#",
+      title: "Digital Transformation",
+      description: "Navigate the complexities of digital transformation and lead your organization into the future.",
+      duration: "8 weeks",
+      format: "Fully Online, Asynchronous",
+      link: "/programs/digital-transformation",
+      featured: true
+    },
+    {
+      title: "AI Strategy & Implementation",
+      description: "Develop and execute AI strategies that create value while maintaining human-centric leadership.",
+      duration: "8 weeks",
+      format: "Fully Online, Asynchronous",
+      link: "/programs/ai-strategy",
       featured: true
     },
     {
@@ -392,9 +400,8 @@ export default function ExecutivesPage() {
                 >
                   <option value="">Select a program</option>
                   <option value="irreplaceable">Irreplaceable: How to Be Fully Human in the Age of AI</option>
-                  <option value="tariff-ready">Tariff-Ready: Strategic Pivoting in a Protectionist Economy</option>
-                  <option value="women-leadership">Women in Leadership: Beyond Equity Toward Influence</option>
-                  <option value="ethical-leader">The Ethical Leader in an Algorithmic World</option>
+                  <option value="digital-transformation">Digital Transformation</option>
+                  <option value="ai-strategy">AI Strategy & Implementation</option>
                   <option value="all">All Programs</option>
                 </select>
               </div>

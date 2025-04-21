@@ -31,6 +31,78 @@ export default function CourseCatalog() {
           format: "Fully Online, Asynchronous",
           featured: false,
           link: "/programs/change-management"
+        },
+        {
+          title: "Emotional Intelligence in Leadership",
+          description: "Develop advanced emotional intelligence skills to build stronger relationships and lead with empathy.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/emotional-intelligence"
+        },
+        {
+          title: "Cross-Cultural Leadership",
+          description: "Master the skills needed to lead diverse, global teams and navigate cultural complexities.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/cross-cultural-leadership"
+        },
+        {
+          title: "Crisis Leadership",
+          description: "Learn to lead effectively during times of uncertainty and organizational crisis.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/crisis-leadership"
+        },
+        {
+          title: "Team Dynamics & Performance",
+          description: "Optimize team performance through advanced understanding of group dynamics and motivation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/team-dynamics"
+        },
+        {
+          title: "Leadership Communication",
+          description: "Master the art of persuasive communication and storytelling for effective leadership.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/leadership-communication"
+        },
+        {
+          title: "Ethical Leadership",
+          description: "Navigate complex ethical challenges while maintaining organizational integrity and trust.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/ethical-leadership"
+        },
+        {
+          title: "Women in Leadership",
+          description: "Develop strategies and skills for women leaders to overcome barriers and maximize impact.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/women-leadership"
+        },
+        {
+          title: "Executive Presence",
+          description: "Cultivate the confidence, gravitas, and communication skills that define executive presence.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/executive-presence"
+        },
+        {
+          title: "Leadership Development",
+          description: "Comprehensive program for developing high-potential leaders into executive-ready candidates.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/leadership-development"
         }
       ]
     },
@@ -60,6 +132,78 @@ export default function CourseCatalog() {
           format: "Fully Online, Asynchronous",
           featured: false,
           link: "/programs/business-model-innovation"
+        },
+        {
+          title: "Strategic Planning",
+          description: "Master the art of strategic planning and execution in complex business environments.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/strategic-planning"
+        },
+        {
+          title: "Market Entry Strategies",
+          description: "Develop and execute effective strategies for entering new markets and expanding globally.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/market-entry"
+        },
+        {
+          title: "Competitive Strategy",
+          description: "Learn to analyze competition and develop strategies for sustainable competitive advantage.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/competitive-strategy"
+        },
+        {
+          title: "Mergers & Acquisitions",
+          description: "Master the strategic and operational aspects of M&A transactions and integration.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/mergers-acquisitions"
+        },
+        {
+          title: "Strategic Alliances",
+          description: "Develop and manage strategic partnerships and alliances for mutual growth.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/strategic-alliances"
+        },
+        {
+          title: "Business Sustainability",
+          description: "Create sustainable business strategies that balance profit with environmental and social impact.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/business-sustainability"
+        },
+        {
+          title: "Growth Strategy",
+          description: "Develop and execute strategies for sustainable business growth and scaling.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/growth-strategy"
+        },
+        {
+          title: "Strategic Innovation",
+          description: "Learn to drive innovation at the strategic level and transform business models.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/strategic-innovation"
+        },
+        {
+          title: "Business Strategy Analytics",
+          description: "Use data analytics to inform strategic decision-making and drive business performance.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/strategy-analytics"
         }
       ]
     },
@@ -89,6 +233,78 @@ export default function CourseCatalog() {
           format: "Fully Online, Asynchronous",
           featured: false,
           link: "/programs/technology-leadership"
+        },
+        {
+          title: "AI Ethics & Governance",
+          description: "Navigate the ethical implications of AI implementation and establish effective governance frameworks.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/ai-ethics"
+        },
+        {
+          title: "Machine Learning for Business",
+          description: "Understand and leverage machine learning applications for business value creation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/machine-learning"
+        },
+        {
+          title: "Cloud Strategy",
+          description: "Develop and implement effective cloud computing strategies for organizational transformation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/cloud-strategy"
+        },
+        {
+          title: "Cybersecurity Leadership",
+          description: "Lead cybersecurity initiatives and protect organizational assets in the digital age.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/cybersecurity"
+        },
+        {
+          title: "Digital Innovation",
+          description: "Drive digital innovation and transformation through emerging technologies.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/digital-innovation"
+        },
+        {
+          title: "Blockchain Strategy",
+          description: "Understand and leverage blockchain technology for business innovation and transformation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/blockchain"
+        },
+        {
+          title: "IoT & Smart Systems",
+          description: "Lead the implementation of IoT solutions and smart systems for business value.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/iot"
+        },
+        {
+          title: "Digital Product Strategy",
+          description: "Develop and execute strategies for digital product development and management.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/digital-product"
+        },
+        {
+          title: "Technology Risk Management",
+          description: "Identify and manage technology risks while enabling innovation and growth.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/tech-risk"
         }
       ]
     }

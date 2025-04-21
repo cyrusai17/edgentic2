@@ -9,28 +9,28 @@ export default function CourseCatalog() {
       category: "Leadership & Human Skills",
       courses: [
         {
-          title: "The Irreplaceable Executive",
-          description: "Master the art of leadership in the AI age. Learn to leverage technology while developing uniquely human skills that AI cannot replicate.",
+          title: "Irreplaceable: How to Be Fully Human in the Age of AI",
+          description: "Master the uniquely human skills that AI cannot replicate.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
           featured: true,
           link: "/programs/irreplaceable"
         },
         {
-          title: "Strategic Leadership",
-          description: "Develop the strategic mindset and decision-making skills needed to lead organizations through complex challenges.",
+          title: "Women in Leadership: Beyond Equity Toward Influence",
+          description: "Develop the skills and strategies to lead with impact.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
           featured: false,
-          link: "/programs/strategic-leadership"
+          link: "/programs/women-leadership"
         },
         {
-          title: "Change Management",
-          description: "Learn to lead organizational change effectively, managing both the technical and human aspects of transformation.",
+          title: "The Ethical Leader in an Algorithmic World",
+          description: "Navigate the complex intersection of technology and ethics.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
           featured: false,
-          link: "/programs/change-management"
+          link: "/programs/ethical-leadership"
         },
         {
           title: "Emotional Intelligence in Leadership",
@@ -110,11 +110,19 @@ export default function CourseCatalog() {
       category: "Business Strategy & Innovation",
       courses: [
         {
+          title: "Tariff-Ready: Strategic Pivoting in a Protectionist Economy",
+          description: "Navigate global trade challenges with confidence and strategy.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: true,
+          link: "/programs/tariff-ready"
+        },
+        {
           title: "Digital Transformation",
           description: "Navigate the complexities of digital transformation and lead your organization into the future.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
-          featured: true,
+          featured: false,
           link: "/programs/digital-transformation"
         },
         {
@@ -188,14 +196,6 @@ export default function CourseCatalog() {
           format: "Fully Online, Asynchronous",
           featured: false,
           link: "/programs/growth-strategy"
-        },
-        {
-          title: "Strategic Innovation",
-          description: "Learn to drive innovation at the strategic level and transform business models.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/strategic-innovation"
         },
         {
           title: "Business Strategy Analytics",

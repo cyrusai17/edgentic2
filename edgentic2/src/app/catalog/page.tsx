@@ -33,12 +33,12 @@ export default function CourseCatalog() {
           link: "/programs/ethical-leadership"
         },
         {
-          title: "Emotional Intelligence in Leadership",
-          description: "Develop advanced emotional intelligence skills to build stronger relationships and lead with empathy.",
+          title: "Engineering Leadership",
+          description: "Develop the skills to lead technical teams and drive innovation in engineering organizations.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
           featured: false,
-          link: "/programs/emotional-intelligence"
+          link: "/programs/engineering-leadership"
         },
         {
           title: "Cross-Cultural Leadership",
@@ -73,22 +73,6 @@ export default function CourseCatalog() {
           link: "/programs/leadership-communication"
         },
         {
-          title: "Ethical Leadership",
-          description: "Navigate complex ethical challenges while maintaining organizational integrity and trust.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/ethical-leadership"
-        },
-        {
-          title: "Women in Leadership",
-          description: "Develop strategies and skills for women leaders to overcome barriers and maximize impact.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/women-leadership"
-        },
-        {
           title: "Executive Presence",
           description: "Cultivate the confidence, gravitas, and communication skills that define executive presence.",
           duration: "8 weeks",
@@ -107,6 +91,91 @@ export default function CourseCatalog() {
       ]
     },
     {
+      category: "Industry-Specific AI & Technology",
+      courses: [
+        {
+          title: "Strategic AI for Healthcare",
+          description: "Leverage AI to transform healthcare delivery, improve patient outcomes, and optimize operations.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: true,
+          link: "/programs/strategic-ai-healthcare"
+        },
+        {
+          title: "Strategic AI for HR Professionals",
+          description: "Use AI to enhance HR processes, improve talent management, and drive organizational effectiveness.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/strategic-ai-hr"
+        },
+        {
+          title: "Strategic AI for Sales",
+          description: "Transform sales processes with AI to increase efficiency, predict trends, and close more deals.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/strategic-ai-sales"
+        },
+        {
+          title: "Green Technologies & AI",
+          description: "Combine AI with sustainable technologies to drive environmental innovation and efficiency.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/green-tech-ai"
+        },
+        {
+          title: "IT & Cybersecurity Leadership Teams",
+          description: "Lead IT and cybersecurity initiatives while building high-performing technical teams.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/it-cybersecurity"
+        },
+        {
+          title: "Big Data Analytics",
+          description: "Master big data analytics to drive business insights and decision-making.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/big-data"
+        },
+        {
+          title: "Generative AI & Business Value",
+          description: "Understand and leverage generative AI technologies while assessing their business value and impact.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/generative-ai"
+        },
+        {
+          title: "Cloud Strategy & Implementation",
+          description: "Develop and implement effective cloud computing strategies for organizational transformation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/cloud-strategy"
+        },
+        {
+          title: "Digital Innovation & Transformation",
+          description: "Drive digital innovation and transformation through emerging technologies.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/digital-innovation"
+        },
+        {
+          title: "Blockchain & Distributed Systems",
+          description: "Understand and leverage blockchain technology for business innovation and transformation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/blockchain"
+        }
+      ]
+    },
+    {
       category: "Business Strategy & Innovation",
       courses: [
         {
@@ -118,20 +187,36 @@ export default function CourseCatalog() {
           link: "/programs/tariff-ready"
         },
         {
-          title: "Digital Transformation",
-          description: "Navigate the complexities of digital transformation and lead your organization into the future.",
+          title: "Design Thinking & Innovation",
+          description: "Master the principles and practices of design thinking to drive innovation and solve complex problems.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
           featured: false,
-          link: "/programs/digital-transformation"
+          link: "/programs/design-thinking"
         },
         {
-          title: "Innovation Strategy",
-          description: "Develop systematic approaches to innovation and create sustainable competitive advantages.",
+          title: "Customer Experience Strategy",
+          description: "Develop strategies to create exceptional customer experiences that drive loyalty and growth.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
           featured: false,
-          link: "/programs/innovation-strategy"
+          link: "/programs/customer-experience"
+        },
+        {
+          title: "Digital Marketing & Analytics",
+          description: "Master modern digital marketing strategies and tools to drive business growth.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/digital-marketing"
+        },
+        {
+          title: "Strategic AI Implementation",
+          description: "Develop and implement AI strategies that create competitive advantage and drive business transformation.",
+          duration: "8 weeks",
+          format: "Fully Online, Asynchronous",
+          featured: false,
+          link: "/programs/strategic-ai"
         },
         {
           title: "Business Model Innovation",
@@ -142,7 +227,7 @@ export default function CourseCatalog() {
           link: "/programs/business-model-innovation"
         },
         {
-          title: "Strategic Planning",
+          title: "Strategic Planning & Execution",
           description: "Master the art of strategic planning and execution in complex business environments.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
@@ -150,7 +235,7 @@ export default function CourseCatalog() {
           link: "/programs/strategic-planning"
         },
         {
-          title: "Market Entry Strategies",
+          title: "Market Entry & Global Expansion",
           description: "Develop and execute effective strategies for entering new markets and expanding globally.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
@@ -158,7 +243,7 @@ export default function CourseCatalog() {
           link: "/programs/market-entry"
         },
         {
-          title: "Competitive Strategy",
+          title: "Competitive Strategy & Analysis",
           description: "Learn to analyze competition and develop strategies for sustainable competitive advantage.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
@@ -166,145 +251,12 @@ export default function CourseCatalog() {
           link: "/programs/competitive-strategy"
         },
         {
-          title: "Mergers & Acquisitions",
+          title: "Mergers & Acquisitions Strategy",
           description: "Master the strategic and operational aspects of M&A transactions and integration.",
           duration: "8 weeks",
           format: "Fully Online, Asynchronous",
           featured: false,
           link: "/programs/mergers-acquisitions"
-        },
-        {
-          title: "Strategic Alliances",
-          description: "Develop and manage strategic partnerships and alliances for mutual growth.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/strategic-alliances"
-        },
-        {
-          title: "Business Sustainability",
-          description: "Create sustainable business strategies that balance profit with environmental and social impact.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/business-sustainability"
-        },
-        {
-          title: "Growth Strategy",
-          description: "Develop and execute strategies for sustainable business growth and scaling.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/growth-strategy"
-        },
-        {
-          title: "Business Strategy Analytics",
-          description: "Use data analytics to inform strategic decision-making and drive business performance.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/strategy-analytics"
-        }
-      ]
-    },
-    {
-      category: "Technology & AI",
-      courses: [
-        {
-          title: "AI Strategy & Implementation",
-          description: "Develop and execute AI strategies that create value while maintaining human-centric leadership.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: true,
-          link: "/programs/ai-strategy"
-        },
-        {
-          title: "Data-Driven Decision Making",
-          description: "Master the art of using data analytics to inform strategic decisions and drive organizational success.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/data-driven-decision-making"
-        },
-        {
-          title: "Technology Leadership",
-          description: "Lead technology initiatives and teams while balancing innovation with business objectives.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/technology-leadership"
-        },
-        {
-          title: "AI Ethics & Governance",
-          description: "Navigate the ethical implications of AI implementation and establish effective governance frameworks.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/ai-ethics"
-        },
-        {
-          title: "Machine Learning for Business",
-          description: "Understand and leverage machine learning applications for business value creation.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/machine-learning"
-        },
-        {
-          title: "Cloud Strategy",
-          description: "Develop and implement effective cloud computing strategies for organizational transformation.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/cloud-strategy"
-        },
-        {
-          title: "Cybersecurity Leadership",
-          description: "Lead cybersecurity initiatives and protect organizational assets in the digital age.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/cybersecurity"
-        },
-        {
-          title: "Digital Innovation",
-          description: "Drive digital innovation and transformation through emerging technologies.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/digital-innovation"
-        },
-        {
-          title: "Blockchain Strategy",
-          description: "Understand and leverage blockchain technology for business innovation and transformation.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/blockchain"
-        },
-        {
-          title: "IoT & Smart Systems",
-          description: "Lead the implementation of IoT solutions and smart systems for business value.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/iot"
-        },
-        {
-          title: "Digital Product Strategy",
-          description: "Develop and execute strategies for digital product development and management.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/digital-product"
-        },
-        {
-          title: "Technology Risk Management",
-          description: "Identify and manage technology risks while enabling innovation and growth.",
-          duration: "8 weeks",
-          format: "Fully Online, Asynchronous",
-          featured: false,
-          link: "/programs/tech-risk"
         }
       ]
     }
